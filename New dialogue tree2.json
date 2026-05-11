@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "What to research now? << if $hut is false >>hut<< else >>-<< endif >>",
+		"position": {
+			"x": 130,
+			"y": 40
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hut",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": 54,
+			"y": -219
+		},
+		"colorID": 0
+	},
+	{
+		"title": "field",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": 274,
+			"y": -219
+		},
+		"colorID": 0
+	}
+]
